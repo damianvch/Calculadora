@@ -3,7 +3,7 @@ package calculadora;
 
 /**
  *
- * @author Grupo3
+ * @author Grupo03
  */
 
 public class Suma {
